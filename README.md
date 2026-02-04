@@ -77,7 +77,7 @@ Source Folder/
 
 └── images/
 
-    └── notes.txt
+└── notes.txt
 
 Output Folder/
 
@@ -89,4 +89,4 @@ Output Folder/
 
 └── images/
 
-    └── notes.txt.txt
+└── notes.txt.txt
