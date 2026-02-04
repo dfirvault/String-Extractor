@@ -68,15 +68,25 @@ Removed: Non-ASCII characters, emojis, special symbols (©, ®, ™), control ch
 Processing a Folder
 text
 Source Folder/
+
 ├── documents/
+
 │   ├── report.pdf
+
 │   └── data.xml
+
 └── images/
+
     └── notes.txt
 
 Output Folder/
+
 ├── documents/
+
 │   ├── report.pdf.txt
+
 │   └── data.xml.txt
+
 └── images/
+
     └── notes.txt.txt
